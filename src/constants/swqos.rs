@@ -152,6 +152,12 @@ pub const SOYAS_TIP_ACCOUNTS: &[Pubkey] = &[
     pubkey!("soyascXFW5wEEYiwfEmHy2pNwomqzvggJosGVD6TJdY"),
     pubkey!("soyasDBdKjADwPz3xk82U3TNPRDKEWJj7wWLajNHZ1L"),
     pubkey!("soyasE2abjBAynmHbGWgEwk4ctBy7JMTUCNrMbjcnyH"),
+    pubkey!("soyasi59njacMUPvo3TM5paHjeK8pYSdovXgFi32gRt"),
+    pubkey!("soyasQYhJxv8uZgWDxhg72td6piAf7XTkoyWHtSATEz"),
+    pubkey!("soyastP66xyYC8XADXZjdMM5BAVGD2YRvz8dwtLsqb8"),
+    pubkey!("soyasvdgUJWYcUCzDxpmjUnNjH7KamXLXTzLwFvdVPE"),
+    pubkey!("soyasvxAunisNxaoRxkKGjNir7KmbwYnr37JmefkX9G"),
+    pubkey!("soyas5doVFUwH8s5zK8gEvCL5KR5ogDmf52LsrJEZ9h"),
 ];
 
 pub const SPEEDLANDING_TIP_ACCOUNTS: &[Pubkey] = &[
